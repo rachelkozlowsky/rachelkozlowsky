@@ -1,6 +1,6 @@
 :metal:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelkozlowsky)](https://github.com/rachelkozlowsky/github-readme-stats)
+[![RachelKozlowsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelkozlowsky&show_icons=true&solarized-dark)](https://github.com/rachelkozlowsky/github-readme-stats)
 
 - :blue_heart: I’m currently learning ReactJs, NextJs, .Net, C#.
 - 👯 I’m looking to collaborate on Front-end projects using ReactJs, NextJs.
