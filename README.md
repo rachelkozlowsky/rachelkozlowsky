@@ -8,7 +8,7 @@
 
 
 - :blue_heart: I’m currently learning ReactJs, NextJs, .Net, C#.
-- 👯 I’m looking to collaborate on Front-end projects using ReactJs, NextJs.
+
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/rachel-kozlowsky/
   - E-mail: rachelkozlowsky@gmail.com
