@@ -13,6 +13,11 @@
   - https://www.linkedin.com/in/rachel-kozlowsky/
   - E-mail: rachelkozlowsky@gmail.com
 
+
+#
+#
+![Snake animation](https://github.com/Franciellirodrigues/Franciellirodrigues/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **rachelkozlowsky/rachelkozlowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
