@@ -2,9 +2,9 @@
 
 ![rachelkozlowsky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachelkozlowsky&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelkozlowsky&theme=dark&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelkozlowsky&theme=dark&layout=compact)
 
-- :blue_heart: I’m currently learning ReactJs, NextJs, .Net, C#.
+- :blue_heart: I’m currently learning Kotlin, Spring, Micronaut.
 
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/rachel-kozlowsky/
